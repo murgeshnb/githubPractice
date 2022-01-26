@@ -8,6 +8,8 @@ public class CreateContact {
 	public void creatingContact()
 	{
 		System.out.println("Creating contact");
+		
+		System.out.println("2nd attempt from user1 for git conflict");
 	}
 
 }
