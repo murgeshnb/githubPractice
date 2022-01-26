@@ -10,6 +10,8 @@ public class CreateContact {
 		System.out.println("Creating contact");
 		
 		System.out.println("2nd attempt from user1 for git conflict");
+		
+		System.out.println("comment for pull req branch");
 	}
 
 }
