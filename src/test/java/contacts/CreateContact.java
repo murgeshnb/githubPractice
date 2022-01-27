@@ -21,7 +21,7 @@ public class CreateContact {
 	}
 	
 	@Test
-	public void jenkin2ndtime(){
+	public void jenkin2ndtimeuuu(){
 		System.out.println("Second time for polling");
 	}
 
