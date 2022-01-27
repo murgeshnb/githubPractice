@@ -13,5 +13,11 @@ public class CreateContact {
 		
 		System.out.println("comment for pull req branch");
 	}
+	
+	@Test
+	public void CreatingContactWithOrg()
+	{
+		System.out.println("Creating contact with organisation for jenkins");
+	}
 
 }
