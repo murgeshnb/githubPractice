@@ -19,5 +19,10 @@ public class CreateContact {
 	{
 		System.out.println("Creating contact with organisation for jenkins");
 	}
+	
+	@Test
+	public void jenkin2ndtime(){
+		System.out.println("Second time for polling");
+	}
 
 }
